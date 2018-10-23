@@ -1,0 +1,26 @@
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\3DES Encrypt.exe.config
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\3DES Encrypt.exe
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\3DES Encrypt.pdb
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\3DES Encrypt.xml
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\tripledes.Form1.resources
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\tripledes.Resources.resources
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\3DES Encrypt.exe
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\3DES Encrypt.xml
+c:\users\derp\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\3DES Encrypt.pdb
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\bin\Debug\3DES Encrypt.exe.config
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\3DES Encrypt.exe
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\3DES Encrypt.xml
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\3DES Encrypt.pdb
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\bin\Debug\3DES Encrypt.exe
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\bin\Debug\3DES Encrypt.pdb
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\bin\Debug\3DES Encrypt.xml
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\tripledes.Form1.resources
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\tripledes.Resources.resources
+D:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+G:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\bin\Debug\3DES Encrypt.exe.config
+G:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\3DES Encrypt.exe
+G:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\3DES Encrypt.xml
+G:\[SRC] Depósito\VBNET\3DES Encrypt\WindowsApplication2\obj\Debug\3DES Encrypt.pdb
